@@ -1,0 +1,277 @@
+
+*{
+margin: 0;
+padding: 0;
+Font-family: 'Forum'; 	
+}
+
+#search_result{
+margin-top: -35px;
+}
+#name_site{
+font-family: 'Forum';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 20px;
+text-align: center;
+
+color: #000000;
+}
+
+.navstyles{
+	font-family: 'L&C Hairline HQ';
+	font-style: normal;
+	font-weight: 500;
+	font-size: 22px;
+	line-height: 28px;
+	text-decoration: none;
+	outline: none;
+	color: #000000;
+}
+.namelink{
+	height: 50px;
+	max-height: 100px;
+}
+.details{
+	height: 150px;
+	max-height: 300px;
+}
+
+
+h1{
+font-family: 'Aileron';
+font-style: normal;
+font-weight: 700;
+font-size: 42px;
+line-height: 117.7%;
+/* or 49px */
+
+letter-spacing: 0.02em;
+}
+
+#section_1{
+height: 500px;
+}
+#section_1_buttons{
+	background-color: #F5F3F3;
+	padding: 10px;
+	border-radius: 70px;
+}
+#section_1_btn_catalog{
+	background-color: #9FC2EC;
+	padding: 20px;
+	border-radius: 30px;
+	border: none;
+	width: 250px;
+	box-shadow: 0 0 10px #9FC2EC;
+}
+
+#section_2_btn_catalog{
+background-color: #F5F3F3;
+padding: 20px;
+border: none;
+width: 250px;
+margin-left: 10px;
+}
+.mar-lft{
+	margin-left: 30fpx;
+}
+#id{
+width: 100%;
+height: 500px;
+background-image: url("images/background.png");
+background-size: contain;
+
+}
+
+/*Баннеры "почему мы?"*/
+.banners{	
+border-radius: 30px;
+background: rgba(255, 255, 255, 0.3);
+backdrop-filter: blur(20px);
+}
+
+#img1{
+	width: 100%;
+	height: 300px;
+	width: 300px;
+	margin-top: 50px ;
+
+}
+#img2{
+	width: 100%;
+	width: 300px;
+	margin-top: 50px ;
+}
+#img3{
+	width: 100%;
+	width: 300px;
+	height: 300px;
+	margin-top: 50px ;
+}
+#banner1{
+	height: 50px;
+}
+#banner2{
+	height: 50px;
+}
+#banner3{
+	height: 50px;
+
+}
+#banner1-1{
+	height: 100px;
+}
+#banner2-1{
+	height: 100px;
+}
+#banner3-1{
+	height: 100px;
+
+}
+.banners_btns{
+	border: none;
+	background-color:  #9FC2EC;
+	border-radius: 20px;
+	font-family: 'L&C Hairline HQ';
+	font-style: normal;
+	font-weight: 500;
+	font-size: 20px;
+	line-height: 25px;
+	box-shadow: 0 0 10px #9FC2EC;
+}
+.footer_navs{
+	text-align: left;
+	font-family: 'Oswald';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 26px;
+	line-height: 30px;
+	margin-bottom: 15px;
+}
+.footer_under_navs{
+	text-align: left;
+	font-family: 'Forum';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 20px;
+	line-height: 22px;
+	margin-bottom: 15px;
+}
+#signin{
+	background-color: #F5F3F3;
+	padding: 10px;
+	border-radius: 70px;
+
+}
+#input_login{
+	background-color: #F5F3F3;
+	padding: 20px;
+	border-radius: 30px;
+	border: none;
+	width: 250px;
+}
+#input_pass{
+	background-color: #F5F3F3;
+	padding: 20px;
+	border-radius: 30px;
+	border: none;
+	width: 250px;
+	margin-left: 10px;
+}
+#btn_login{
+	padding: 10px;
+	border: none;
+	background-color: #9FC2EC;
+	border-radius: 30px;
+	box-shadow: 0 0 10px #9fc2ec;
+}
+#btn_signup{
+	margin-top: 15px;
+	padding: 10px;
+	border: none;
+	background-color: #9FC2EC;
+	border-radius: 30px;
+	box-shadow: 0 0 10px #9fc2ec;
+}
+.book_boxes{
+	padding: 50px;
+
+}
+.poster-wh{
+	height: 300px;
+	background-size: auto 100%;
+}
+.select_sb{
+	margin: 10px;
+	padding: 10px;
+	border: none;
+	background-color: #F5F3F3;
+	border-radius: 10px;
+	box-shadow: 0 0 10px #9fc2ec;
+}
+.btn_sb{
+	margin: 10px;
+	padding: 10px;
+	width: 50px;
+	margin: auto;
+	border: none;
+	background-color: #9FC2EC;
+	border-radius: 10px;
+	box-shadow: 0 0 10px #9fc2ec;
+}
+#aboutus_num{
+	font-size: 36px;
+	font-weight: bolder;
+}
+.underaboutus_num{
+	background-color:#9FC2EC;
+	border-radius: 50px;
+	margin: 20px;
+	width: 30%;
+	padding: 50px;
+	font-size: 26px;
+	font-family: Robotic ;
+	font-style: oblique;
+	box-shadow: 0 0 20px #9fc2ec;
+}
+.bgcolor_aboutus{
+	background-color:#F5F3F3 ;
+	border-top-left-radius: 50px;
+	border-top-right-radius: 50px;
+	box-shadow: 0 0 20px #9fc2ec;
+	height: 250px;
+	margin-bottom: 200px;
+	padding-top: 1px;
+}
+.bgcolor_box_books{
+	background-color:#F5F3F3 ;
+	border-top-left-radius: 50px;
+	border-top-right-radius: 50px;
+	box-shadow: 0 0 20px #9fc2ec;
+	padding-top: 1px;
+	min-height: 1250px;
+}
+
+#whyus{
+	font-size: 30px;
+	font-family:Vinnytsia City;
+	font-weight: bolder;
+	text-shadow: 0px 0px 10px #9fc2ec;
+}
+.others{
+	font-size: 18px;
+	padding: 10px;
+	font-family: Arial;
+}
+.reg_btn{
+	border-radius: 5px;
+	background-color: #F5F3F3 ;
+	width: 200px;
+}
+.reg_sub{
+	border-radius: 5px;
+	background-color: #9fc2ec;
+	padding: 5px;
+}
